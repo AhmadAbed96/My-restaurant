@@ -1,1 +1,1 @@
-![web-design](https://www.figma.com/file/pYWZ5NINKo9dsjjoS5W7zc/Untitled?type=design&node-id=0-1&mode=design&t=OWNNxytLNufLVDm2-0)
+![web-design](./imgs/rest-web-design.png)
